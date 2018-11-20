@@ -7,3 +7,10 @@ The solution will be built on Tensorflow and/or CoreML frameworks and will use a
 
 ## Team
 Currently WCD AI team is consisting of 7 people but we are always looking for more data scientists to help out as much as they can. All of the software that we create will be open source and might have other applications as well. Since our datasets are currently pretty small our main challenge is to create an algorithm that can be trained with the least amount of training data.
+
+## Get in touch
+Feel free to contact us with your questions and proposals:
+
+Kristiina Kerge  
+Technology Manager  
+kristiina@letsdoitworld.org

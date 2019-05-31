@@ -1,6 +1,6 @@
 # World Cleanup AI
 
-Let's Do It Foundation (LDIF) is working on building an AI solution capable of detecting trash in images and videos. 
+Let's Do It Foundation (LDIF) is working on building an AI solution capable of detecting trash in images and videos. Overview of the project is here https://opendata.letsdoitworld.org/#/ai
 
 ## Approach
 The solution was build using Mask R-CNN and trained on dataset consisting of almost 1400 crowd sourced images containing trash. Ideally we would end up with a computer vision algorithm that could detect trash from any picture or video that has a geotag attached to it. 

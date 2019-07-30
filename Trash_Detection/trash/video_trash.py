@@ -3,7 +3,7 @@ import numpy as np
 import sys
 
 #add this to python path, since weights are there
-sys.path.append('/home/kristin/trash/Project_Trash_Mask_RCNN/Mask-RCNN/Mask_RCNN-master/')
+sys.path.append('/trash/Project_Trash_Mask_RCNN/Mask-RCNN/Mask_RCNN-master/')
 print(sys.path)
 
 def random_colors(N):
@@ -65,7 +65,7 @@ if __name__ == '__main__':
 
     # adding these to path 
     sys.path.append('/trash/Project_Trash_Mask_RCNN/Mask-RCNN/Mask_RCNN-master/')
-    sys.path.append('/Users/kristinehala/Documents/Project_Trash_Mask_RCNN/Mask-RCNN/Mask_RCNN-master')
+    sys.path.append('/Project_Trash_Mask_RCNN/Mask-RCNN/Mask_RCNN-master')
 
     from samples.trash import trash
     from mrcnn import model as modellib, utils

@@ -74,7 +74,7 @@ class TrashConfig(Config):
 #  Dataset
 ############################################################
 
-#dataset_dir = '/Users/kristinehala/Documents/Project_Trash_Mask_RCNN/Mask-RCNN/Mask_RCNN-master/samples/trash/dataset/train'
+#dataset_dir = '/Project_Trash_Mask_RCNN/Mask-RCNN/Mask_RCNN-master/samples/trash/dataset/train'
 class TrashDataset(utils.Dataset):
 
     def load_trash(self, dataset_dir, subset):

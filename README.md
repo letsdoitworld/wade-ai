@@ -1,4 +1,4 @@
-# World Cleanup AI
+# AI tool WADE 
 
 Let's Do It Foundation (LDIF) is working on building an AI solution capable of detecting trash in images and videos. Video of the project is here https://youtu.be/vOgIjAhoK4o
 

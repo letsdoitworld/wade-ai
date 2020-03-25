@@ -8,6 +8,9 @@ The model is meant to be used on google street view images and is taught to dete
 There are a lot of improvements to be made and a lot of new training images to be added to the project. 
 Our intent is not to offend anyone or anything. 
 
+## Data
+We have added the original dataset with some changes in the trash/dataset folder. It includes all the annotation json files (There are many, since they were done in different times and by differnt people). Additionally there is a link to the images that were done by the LDIW voluteers during the cleanup days, so You are able to select and use the images yourself aswell here: https://drive.google.com/file/d/1X_ozEv5vF3bhg3FIIU6_5suBC7UdVVtA/view 
+
 ## Getting Started
 
 To try and test our model on your trash images:

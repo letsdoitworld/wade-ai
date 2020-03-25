@@ -1,0 +1,1633 @@
+{
+    "_via_settings": {
+        "ui": {
+            "annotation_editor_height": 25,
+            "annotation_editor_fontsize": 0.8,
+            "leftsidebar_width": 18,
+            "image_grid": {
+                "img_height": 80,
+                "rshape_fill": "none",
+                "rshape_fill_opacity": 0.3,
+                "rshape_stroke": "yellow",
+                "rshape_stroke_width": 2,
+                "show_region_shape": true,
+                "show_image_policy": "all"
+            },
+            "image": {
+                "region_label": "__via_region_id__",
+                "region_label_font": "10px Sans",
+                "on_image_annotation_editor_placement": "NEAR_REGION"
+            }
+        },
+        "core": {
+            "buffer_size": 18,
+            "filepath": {},
+            "default_filepath": ""
+        },
+        "project": {
+            "name": "car_trash_240419"
+        }
+    },
+    "_via_img_metadata": {
+        "car_trash13.jpg166288": {
+            "filename": "car_trash13.jpg",
+            "size": 166288,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            308,
+                            300,
+                            275,
+                            269,
+                            296,
+                            347,
+                            353,
+                            362,
+                            375,
+                            456,
+                            527,
+                            675,
+                            749,
+                            911,
+                            1007,
+                            916,
+                            885,
+                            787,
+                            774,
+                            721,
+                            693,
+                            570,
+                            641,
+                            609,
+                            550,
+                            505,
+                            448,
+                            417,
+                            367,
+                            325
+                        ],
+                        "all_points_y": [
+                            398,
+                            421,
+                            432,
+                            438,
+                            457,
+                            456,
+                            478,
+                            518,
+                            570,
+                            548,
+                            567,
+                            599,
+                            619,
+                            597,
+                            537,
+                            493,
+                            434,
+                            417,
+                            447,
+                            423,
+                            400,
+                            395,
+                            393,
+                            371,
+                            367,
+                            384,
+                            383,
+                            394,
+                            406,
+                            408
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            149,
+                            179,
+                            277,
+                            278,
+                            173
+                        ],
+                        "all_points_y": [
+                            479,
+                            460,
+                            509,
+                            525,
+                            502
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            405,
+                            409,
+                            454,
+                            453
+                        ],
+                        "all_points_y": [
+                            646,
+                            680,
+                            677,
+                            646
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "car_trash14.jpg49033": {
+            "filename": "car_trash14.jpg",
+            "size": 49033,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            129,
+                            65,
+                            129,
+                            168,
+                            157,
+                            159
+                        ],
+                        "all_points_y": [
+                            216,
+                            235,
+                            243,
+                            250,
+                            226,
+                            213
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            5,
+                            5,
+                            115,
+                            193,
+                            198,
+                            225,
+                            347,
+                            383,
+                            548,
+                            576,
+                            536,
+                            471,
+                            444,
+                            372,
+                            259,
+                            214,
+                            186,
+                            158,
+                            137,
+                            108,
+                            56
+                        ],
+                        "all_points_y": [
+                            285,
+                            315,
+                            311,
+                            312,
+                            341,
+                            356,
+                            354,
+                            335,
+                            334,
+                            313,
+                            286,
+                            250,
+                            273,
+                            258,
+                            268,
+                            235,
+                            259,
+                            250,
+                            267,
+                            281,
+                            266
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            246,
+                            231,
+                            265,
+                            448,
+                            457,
+                            363
+                        ],
+                        "all_points_y": [
+                            210,
+                            216,
+                            243,
+                            267,
+                            243,
+                            223
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            386,
+                            359,
+                            390,
+                            626,
+                            620
+                        ],
+                        "all_points_y": [
+                            342,
+                            363,
+                            367,
+                            365,
+                            335
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "car_trash12.jpg138100": {
+            "filename": "car_trash12.jpg",
+            "size": 138100,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            568,
+                            517,
+                            691,
+                            733,
+                            704,
+                            642,
+                            603
+                        ],
+                        "all_points_y": [
+                            294,
+                            297,
+                            462,
+                            415,
+                            356,
+                            348,
+                            315
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            384,
+                            348,
+                            251,
+                            219,
+                            323,
+                            415,
+                            436,
+                            402,
+                            404,
+                            455,
+                            524,
+                            471,
+                            469,
+                            487,
+                            485,
+                            445,
+                            440
+                        ],
+                        "all_points_y": [
+                            264,
+                            345,
+                            332,
+                            421,
+                            458,
+                            460,
+                            439,
+                            431,
+                            390,
+                            390,
+                            354,
+                            317,
+                            296,
+                            289,
+                            241,
+                            231,
+                            248
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            346,
+                            412,
+                            464,
+                            471,
+                            439,
+                            371
+                        ],
+                        "all_points_y": [
+                            170,
+                            124,
+                            127,
+                            171,
+                            187,
+                            187
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            235,
+                            235,
+                            259,
+                            283,
+                            334,
+                            345,
+                            304,
+                            275,
+                            251
+                        ],
+                        "all_points_y": [
+                            126,
+                            156,
+                            168,
+                            199,
+                            200,
+                            154,
+                            128,
+                            130,
+                            120
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            265,
+                            248,
+                            279,
+                            275
+                        ],
+                        "all_points_y": [
+                            87,
+                            97,
+                            100,
+                            90
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            193,
+                            185,
+                            199,
+                            213,
+                            211
+                        ],
+                        "all_points_y": [
+                            93,
+                            102,
+                            112,
+                            104,
+                            93
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "car_trash11.jpg86005": {
+            "filename": "car_trash11.jpg",
+            "size": 86005,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            232,
+                            281,
+                            287,
+                            325,
+                            440,
+                            415,
+                            405,
+                            357,
+                            273,
+                            256
+                        ],
+                        "all_points_y": [
+                            84,
+                            123,
+                            145,
+                            137,
+                            125,
+                            87,
+                            60,
+                            53,
+                            52,
+                            54
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            208,
+                            155,
+                            118,
+                            158,
+                            188,
+                            280,
+                            365,
+                            477,
+                            431,
+                            434,
+                            418,
+                            383,
+                            374,
+                            321,
+                            314,
+                            262,
+                            233
+                        ],
+                        "all_points_y": [
+                            223,
+                            250,
+                            303,
+                            347,
+                            346,
+                            316,
+                            336,
+                            278,
+                            234,
+                            222,
+                            211,
+                            227,
+                            212,
+                            219,
+                            234,
+                            242,
+                            224
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "car_trash10.jpg202929": {
+            "filename": "car_trash10.jpg",
+            "size": 202929,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            101,
+                            14,
+                            5,
+                            69,
+                            206,
+                            279,
+                            181,
+                            110
+                        ],
+                        "all_points_y": [
+                            451,
+                            472,
+                            500,
+                            513,
+                            557,
+                            508,
+                            442,
+                            436
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            292,
+                            281,
+                            214,
+                            263,
+                            347,
+                            273,
+                            322,
+                            420,
+                            459,
+                            569,
+                            641,
+                            704,
+                            752,
+                            769,
+                            793,
+                            853,
+                            878,
+                            849,
+                            667,
+                            556,
+                            415
+                        ],
+                        "all_points_y": [
+                            400,
+                            428,
+                            434,
+                            455,
+                            452,
+                            498,
+                            505,
+                            506,
+                            530,
+                            520,
+                            519,
+                            519,
+                            502,
+                            469,
+                            457,
+                            432,
+                            395,
+                            378,
+                            373,
+                            375,
+                            384
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            3,
+                            1,
+                            1229,
+                            1224,
+                            1095,
+                            1004,
+                            909,
+                            810,
+                            709,
+                            491,
+                            325,
+                            274,
+                            230,
+                            192,
+                            149,
+                            157,
+                            92,
+                            77,
+                            40
+                        ],
+                        "all_points_y": [
+                            609,
+                            672,
+                            671,
+                            547,
+                            536,
+                            502,
+                            539,
+                            463,
+                            522,
+                            530,
+                            503,
+                            569,
+                            563,
+                            593,
+                            602,
+                            616,
+                            608,
+                            582,
+                            603
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "car_trash9.jpg115912": {
+            "filename": "car_trash9.jpg",
+            "size": 115912,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            3,
+                            756,
+                            829,
+                            885,
+                            914,
+                            916,
+                            6
+                        ],
+                        "all_points_y": [
+                            494,
+                            379,
+                            419,
+                            366,
+                            369,
+                            820,
+                            820
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "car_trash8.jpg138613": {
+            "filename": "car_trash8.jpg",
+            "size": 138613,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            248,
+                            213,
+                            199,
+                            127,
+                            15,
+                            7,
+                            9,
+                            14,
+                            80,
+                            119,
+                            77,
+                            103,
+                            177,
+                            232,
+                            374,
+                            376,
+                            393,
+                            424,
+                            496,
+                            576,
+                            515,
+                            526,
+                            575,
+                            571,
+                            532,
+                            488,
+                            434,
+                            382,
+                            319,
+                            281
+                        ],
+                        "all_points_y": [
+                            86,
+                            88,
+                            111,
+                            121,
+                            191,
+                            216,
+                            285,
+                            335,
+                            325,
+                            293,
+                            274,
+                            253,
+                            252,
+                            314,
+                            284,
+                            252,
+                            224,
+                            228,
+                            282,
+                            277,
+                            224,
+                            198,
+                            192,
+                            167,
+                            170,
+                            122,
+                            120,
+                            95,
+                            91,
+                            91
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "car_trash7.jpg279240": {
+            "filename": "car_trash7.jpg",
+            "size": 279240,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            9,
+                            79,
+                            79,
+                            133,
+                            168,
+                            235,
+                            265,
+                            293,
+                            370,
+                            398,
+                            425,
+                            425,
+                            224,
+                            122,
+                            90,
+                            77,
+                            3,
+                            2
+                        ],
+                        "all_points_y": [
+                            326,
+                            266,
+                            229,
+                            193,
+                            214,
+                            181,
+                            236,
+                            197,
+                            245,
+                            302,
+                            296,
+                            543,
+                            520,
+                            502,
+                            439,
+                            409,
+                            394,
+                            333
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "car_trash6.jpg314505": {
+            "filename": "car_trash6.jpg",
+            "size": 314505,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            896,
+                            829,
+                            711,
+                            645,
+                            566,
+                            465,
+                            399,
+                            158,
+                            161,
+                            297,
+                            348,
+                            410,
+                            623,
+                            562,
+                            449,
+                            405,
+                            256,
+                            260,
+                            326,
+                            415,
+                            570,
+                            577,
+                            699,
+                            715,
+                            763,
+                            808,
+                            893
+                        ],
+                        "all_points_y": [
+                            422,
+                            435,
+                            501,
+                            485,
+                            493,
+                            525,
+                            540,
+                            557,
+                            526,
+                            482,
+                            502,
+                            504,
+                            398,
+                            391,
+                            415,
+                            401,
+                            367,
+                            347,
+                            322,
+                            290,
+                            301,
+                            343,
+                            330,
+                            360,
+                            367,
+                            403,
+                            399
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "car_trash5.jpg11446": {
+            "filename": "car_trash5.jpg",
+            "size": 11446,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            175,
+                            149,
+                            84,
+                            35,
+                            8,
+                            49,
+                            170,
+                            207,
+                            239
+                        ],
+                        "all_points_y": [
+                            95,
+                            73,
+                            81,
+                            114,
+                            157,
+                            192,
+                            193,
+                            168,
+                            138
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            152,
+                            200,
+                            221,
+                            216,
+                            159
+                        ],
+                        "all_points_y": [
+                            10,
+                            20,
+                            10,
+                            2,
+                            1
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "car_trash4.jpg125666": {
+            "filename": "car_trash4.jpg",
+            "size": 125666,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            61,
+                            9,
+                            57,
+                            72
+                        ],
+                        "all_points_y": [
+                            460,
+                            474,
+                            492,
+                            471
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            70,
+                            70,
+                            188,
+                            168,
+                            100
+                        ],
+                        "all_points_y": [
+                            555,
+                            575,
+                            567,
+                            540,
+                            528
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            750,
+                            633,
+                            522,
+                            550,
+                            624,
+                            702
+                        ],
+                        "all_points_y": [
+                            512,
+                            534,
+                            490,
+                            449,
+                            424,
+                            466
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            976,
+                            955,
+                            794,
+                            805,
+                            933,
+                            968
+                        ],
+                        "all_points_y": [
+                            528,
+                            545,
+                            532,
+                            516,
+                            502,
+                            504
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            889,
+                            870,
+                            789,
+                            683,
+                            798
+                        ],
+                        "all_points_y": [
+                            392,
+                            424,
+                            455,
+                            402,
+                            387
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            344,
+                            408,
+                            387,
+                            311
+                        ],
+                        "all_points_y": [
+                            516,
+                            489,
+                            468,
+                            491
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "car_trash3.jpg142803": {
+            "filename": "car_trash3.jpg",
+            "size": 142803,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            602,
+                            622,
+                            652,
+                            719,
+                            753,
+                            744,
+                            769,
+                            746,
+                            744,
+                            924,
+                            923,
+                            483,
+                            164,
+                            2,
+                            1,
+                            188,
+                            270,
+                            304,
+                            412,
+                            488,
+                            567,
+                            652
+                        ],
+                        "all_points_y": [
+                            290,
+                            468,
+                            498,
+                            515,
+                            483,
+                            420,
+                            392,
+                            378,
+                            310,
+                            367,
+                            570,
+                            571,
+                            300,
+                            310,
+                            255,
+                            258,
+                            236,
+                            217,
+                            224,
+                            236,
+                            229,
+                            242
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            139,
+                            105,
+                            3,
+                            5,
+                            55,
+                            136,
+                            198
+                        ],
+                        "all_points_y": [
+                            240,
+                            244,
+                            229,
+                            183,
+                            191,
+                            187,
+                            214
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "car_trash2.jpg165850": {
+            "filename": "car_trash2.jpg",
+            "size": 165850,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            192,
+                            109,
+                            71,
+                            137
+                        ],
+                        "all_points_y": [
+                            381,
+                            366,
+                            448,
+                            484
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            428,
+                            419,
+                            363,
+                            251,
+                            224,
+                            197,
+                            485,
+                            626,
+                            663,
+                            601,
+                            545,
+                            528,
+                            477,
+                            456
+                        ],
+                        "all_points_y": [
+                            220,
+                            318,
+                            367,
+                            364,
+                            401,
+                            510,
+                            528,
+                            409,
+                            316,
+                            285,
+                            265,
+                            282,
+                            285,
+                            243
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "car_trash1.jpg67210": {
+            "filename": "car_trash1.jpg",
+            "size": 67210,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            226,
+                            194,
+                            188,
+                            221,
+                            238,
+                            335,
+                            304,
+                            304,
+                            257
+                        ],
+                        "all_points_y": [
+                            306,
+                            322,
+                            366,
+                            370,
+                            342,
+                            367,
+                            339,
+                            318,
+                            305
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "car_trash.jpg201207": {
+            "filename": "car_trash.jpg",
+            "size": 201207,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            3,
+                            13,
+                            167,
+                            429,
+                            624,
+                            631,
+                            612,
+                            606,
+                            595,
+                            581,
+                            578,
+                            591,
+                            525,
+                            504,
+                            463,
+                            458,
+                            457,
+                            485,
+                            487,
+                            465,
+                            466,
+                            423,
+                            413,
+                            436,
+                            433,
+                            321,
+                            164
+                        ],
+                        "all_points_y": [
+                            319,
+                            529,
+                            532,
+                            488,
+                            415,
+                            341,
+                            302,
+                            262,
+                            311,
+                            311,
+                            261,
+                            232,
+                            220,
+                            244,
+                            236,
+                            251,
+                            264,
+                            261,
+                            285,
+                            284,
+                            321,
+                            331,
+                            277,
+                            272,
+                            237,
+                            250,
+                            277
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            682,
+                            683,
+                            671,
+                            663,
+                            760,
+                            744,
+                            787,
+                            698
+                        ],
+                        "all_points_y": [
+                            241,
+                            297,
+                            308,
+                            326,
+                            322,
+                            299,
+                            263,
+                            232
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "699.jpg57296": {
+            "filename": "699.jpg",
+            "size": 57296,
+            "regions": [],
+            "file_attributes": {}
+        },
+        "658.jpg74245": {
+            "filename": "658.jpg",
+            "size": 74245,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            294,
+                            292,
+                            253,
+                            245,
+                            251,
+                            284,
+                            454,
+                            607,
+                            619,
+                            586,
+                            555,
+                            535,
+                            438,
+                            415
+                        ],
+                        "all_points_y": [
+                            352,
+                            411,
+                            407,
+                            442,
+                            475,
+                            506,
+                            516,
+                            437,
+                            416,
+                            391,
+                            395,
+                            419,
+                            426,
+                            343
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            335,
+                            406,
+                            477,
+                            445,
+                            355,
+                            333
+                        ],
+                        "all_points_y": [
+                            608,
+                            567,
+                            592,
+                            627,
+                            635,
+                            615
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            196,
+                            173,
+                            8,
+                            9,
+                            132
+                        ],
+                        "all_points_y": [
+                            477,
+                            500,
+                            502,
+                            472,
+                            461
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "655.jpg84938": {
+            "filename": "655.jpg",
+            "size": 84938,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            135,
+                            134,
+                            122,
+                            120,
+                            128
+                        ],
+                        "all_points_y": [
+                            348,
+                            389,
+                            381,
+                            364,
+                            349
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "625.jpg112932": {
+            "filename": "625.jpg",
+            "size": 112932,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            230,
+                            203,
+                            241,
+                            244
+                        ],
+                        "all_points_y": [
+                            596,
+                            600,
+                            627,
+                            610
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            386,
+                            390,
+                            418,
+                            402
+                        ],
+                        "all_points_y": [
+                            539,
+                            565,
+                            560,
+                            540
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "615.jpg83252": {
+            "filename": "615.jpg",
+            "size": 83252,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            391,
+                            395,
+                            431,
+                            419
+                        ],
+                        "all_points_y": [
+                            427,
+                            437,
+                            434,
+                            426
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "569.jpg53431": {
+            "filename": "569.jpg",
+            "size": 53431,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            97,
+                            84,
+                            80,
+                            103
+                        ],
+                        "all_points_y": [
+                            440,
+                            452,
+                            482,
+                            463
+                        ]
+                    },
+                    "region_attributes": {}
+                },
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            54,
+                            84,
+                            87,
+                            73
+                        ],
+                        "all_points_y": [
+                            604,
+                            589,
+                            602,
+                            617
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "555.jpg68682": {
+            "filename": "555.jpg",
+            "size": 68682,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            251,
+                            249,
+                            275,
+                            284,
+                            271
+                        ],
+                        "all_points_y": [
+                            335,
+                            362,
+                            369,
+                            355,
+                            344
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        },
+        "559.jpg93122": {
+            "filename": "559.jpg",
+            "size": 93122,
+            "regions": [
+                {
+                    "shape_attributes": {
+                        "name": "polygon",
+                        "all_points_x": [
+                            149,
+                            13,
+                            8,
+                            156,
+                            244,
+                            235
+                        ],
+                        "all_points_y": [
+                            565,
+                            558,
+                            590,
+                            615,
+                            582,
+                            562
+                        ]
+                    },
+                    "region_attributes": {}
+                }
+            ],
+            "file_attributes": {}
+        }
+    },
+    "_via_attributes": {
+        "region": {},
+        "file": {}
+    }
+}

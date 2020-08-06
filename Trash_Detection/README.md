@@ -9,7 +9,9 @@ There are a lot of improvements to be made and a lot of new training images to b
 Our intent is not to offend anyone or anything. 
 
 ## Data
-We have added the original dataset with some changes in the trash/dataset folder. It includes all the annotation json files (There are many, since they were done in different times and by differnt people). Additionally there is a link to the images that were done by the LDIW voluteers during the cleanup days, so You are able to select and use the images yourself aswell here: https://drive.google.com/file/d/1X_ozEv5vF3bhg3FIIU6_5suBC7UdVVtA/view 
+We have added the original dataset with some changes in the trash/dataset folder. It includes all the annotation json files (There are many, since they were done in different times and by different people). 
+
+Additionally there is a link to the images that were done by the LDIW volunteers during the cleanup days, so You are able to select and use the images yourself aswell here: https://drive.google.com/file/d/1X_ozEv5vF3bhg3FIIU6_5suBC7UdVVtA/view These images do not have annotations. 
 
 ## Getting Started
 

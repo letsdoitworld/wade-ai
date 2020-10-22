@@ -12,5 +12,5 @@ Currently LDIF AI team is consisting of 7 people but we are always looking for m
 Feel free to contact us with your questions and proposals:
 
 Kristiina Kerge  
-Technology Manager  
-kristiina@letsdoitworld.org
+Tech Innovation Lead  
+kristiina@letsdoitfoundation.org

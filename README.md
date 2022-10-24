@@ -1,16 +1,6 @@
-# AI tool WADE 
+# Notice: WADE has been superseded by TrashAI which can be found here: https://github.com/code4sac/trash-ai
 
-Let's Do It Foundation (LDIF) is working on building an AI solution capable of detecting trash in images and videos. Video of the project is here https://youtu.be/zsgpqsRRzTE
+Did you know there is a website where you can upload pictures of trash and the program will identify the trash in the images for you? 
+Now you do! We'd like to introduce you to Trash AI, an open sourced project. Inspired initially by WADE AI, a Let's Do It World project, Trash AI was developed and is maintained by Code for Sacramento and Sponsored by the Moore Institute for Plastic Pollution Research.
 
-## Approach
-The solution was build using Mask R-CNN and trained on dataset consisting of almost 1400 crowd sourced images containing trash. Ideally we would end up with a computer vision algorithm that could detect trash from any picture or video that has a geotag attached to it. 
-
-## Team
-Currently LDIF AI team is consisting of 7 people but we are always looking for more data scientists to help out as much as they can. All of the software that we create will be open source and might have other applications as well. Since our datasets are currently pretty small our main challenge is to create an algorithm that can be trained with the least amount of training data.
-
-## Get in touch
-Feel free to contact us with your questions and proposals:
-
-Kristiina Kerge  
-Tech Innovation Lead  
-kristiina@letsdoitfoundation.org
+![example](https://user-images.githubusercontent.com/54409/197541487-cfe8ff85-81b3-4eba-894f-80365fa45a8b.jpg)
